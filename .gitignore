@@ -1,0 +1,10 @@
+*~
+bin/
+build/
+*#*
+.pytest_cache/
+MANIFEST
+*pyc
+*so
+*c
+*cpp
